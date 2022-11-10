@@ -1,5 +1,5 @@
 import React from 'react';
-import Add from '../assets/addAvatar.png';
+import Add from '../assets/img/addAvatar.png';
 
 const Register = () => {
 	return (
